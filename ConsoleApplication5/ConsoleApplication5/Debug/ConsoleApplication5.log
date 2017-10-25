@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\文档\c++\consoleapplication5\consoleapplication5\源.cpp(19): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+d:\文档\c++\consoleapplication5\consoleapplication5\源.cpp(21): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+d:\文档\c++\consoleapplication5\consoleapplication5\源.cpp(22): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  ConsoleApplication5.vcxproj -> D:\文档\C++\ConsoleApplication5\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> D:\文档\C++\ConsoleApplication5\Debug\ConsoleApplication5.pdb (Full PDB)
